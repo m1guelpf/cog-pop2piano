@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wget -O model.ckpt https://github.com/sweetcocoa/pop2piano/releases/download/dpi_2k_epoch/model-1999-val_0.67311615.ckpt
